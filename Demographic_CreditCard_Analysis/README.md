@@ -1,11 +1,9 @@
 # Demographic Impact on Credit Card Usage: Data Analysis and Regression
 
 **Course:** Fundamentals of Data Science (FDS)  
-**Project Type:** Individual / Group Project  
+**Project Type:** Individual 
 **Team Members (if group):**  
 - Sparshika Ajmaan Dinesh Kumar  
-- [Teammate 2 Name]  
-- [Teammate 3 Name]  
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
 
